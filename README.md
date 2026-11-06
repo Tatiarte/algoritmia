@@ -1,1 +1,0 @@
-# algoritmia-s1
