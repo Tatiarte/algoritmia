@@ -26,7 +26,7 @@ Algoritmo Calificaciones
 	FinPara
 	Escribir "Promedio: ", suma / 5
 	Escribir "Aprobados: ", aprobados
-	Escribir "Nota más alta: ", mayor, " y más baja: ", menor
+	Escribir "Nota mas alta: ", mayor, " y mas baja: ", menor
 	Si alguienPerdio Entonces
 		Escribir "Hay estudiantes en refuerzo"
 	FinSi
